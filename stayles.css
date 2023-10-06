@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+img {
+    height: 350px;
+    width: auto;
+    border: 10px solid whitesmoke;
+    padding: 10px;
+}
+
+div {
+    text-align: center;
+    margin-top: 60px;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+
+.dif {
+    color: white;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    margin: 50px ;
+    font-size: 30px;
+
+}
+
+p {
+    color: white;
+    text-align: center;
+}
